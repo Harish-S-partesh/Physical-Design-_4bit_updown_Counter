@@ -1,4 +1,4 @@
-# Exp 5 Physical Design of a 4-Bit Up-Down Counter
+[# Exp 5 Physical Design of a 4-Bit Up-Down Counter
 
 ## Aim:
 
@@ -190,3 +190,4 @@ The complete Power Planning process makes sure Every Standard Cell receives enou
 ## Result
 
 Thus, the physical design stages up to placement for the 4-bit up-down counter were completed and verified.
+](https://github.com/Harish-S-partesh/UART-APR/blob/main/README.md)
